@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kimberly
 
-💻 I'm a passionate **Full-Stack Android Developer** and Computer Science student , learning to build meaningful tech from the ground up.
+💻 I'm a passionate **Full-Stack Developer** and Computer Science student , learning to build meaningful tech from the ground up.
 
 I love crafting user-friendly interfaces, exploring backend logic, and finding creative ways to solve real-world problems through code. I'm especially interested in mobile apps, AI integration, and cloud-based development.
 
