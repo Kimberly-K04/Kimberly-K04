@@ -1,3 +1,9 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kimberly
+=================================================================================================================================
+
+Full-Stack Developer | Computer Science Student
+-----------------------------------------------
+
 I have a year's experience in building full-stack applications, progressing from simple programs to complete applications with real world logic and functionality. My work focuses on creating practical and user-friendly solutions while continuously enhancing my technical skills. I started coding out of curiosity but quickly realized I enjoy the process just as much as the result.
 
 * ✉️  You can contact me at [kkwamboka04@gmail.com](mailto:kkwamboka04@gmail.com)
